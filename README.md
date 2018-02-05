@@ -1,4 +1,3 @@
 # LearningAngular
 Place to try out different basic Angular applications
-
-This is readme file
+I will create the quickstart Angular project from angular.io here
